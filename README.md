@@ -9,6 +9,7 @@ This project was completed with the intention to better understand HTML, CSS and
 3. In hindsight, could have unified search-engine-optimization + online-reputation-management + social-media-marketing attributes into one attribute.
 4. align-items: center items on the y axis but uses line-height to determine a reference point for centering - because of this it became easier to remove padding styles in favor of setting the bar to a specific height and then setting the line height to the same size.
 5. These elements are similar: `<div> <header>` but the latter is an example of a semantic element and can provide more information about a section than the former. This may also affect the priority that your browser may see the section contents. More about that [here](https://www.w3schools.com/html/html5_semantic_elements.asp).
+6. messing with the ul/li styles changed the order of the list items as well, did not notice until writing up this readme.
 
 ## Deliverable
 
@@ -21,6 +22,3 @@ This project was completed with the intention to better understand HTML, CSS and
 - [Finding problems in file in VSCode](https://stackoverflow.com/questions/58017905/how-to-find-out-problems-in-this-file-errors-in-vs-code)
 - [Branch synchronization](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch)
 - [Pro README guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
----
-
