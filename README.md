@@ -35,3 +35,4 @@ This project was completed with the intention to better understand HTML, CSS and
 - [Finding problems in file in VSCode](https://stackoverflow.com/questions/58017905/how-to-find-out-problems-in-this-file-errors-in-vs-code)
 - [Branch synchronization](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch)
 - [Pro README guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+- [Equivalent of alt attribute for div elements](https://thewebdev.info/2021/08/21/what-is-the-equivalent-of-the-alt-attribute-for-div-elements/#:~:text=for%20div%20Elements-,To%20add%20the%20equivalent%20of%20the%20“alt”%20attribute%20for%20div,alt%20attribute%20to%20the%20div.)
