@@ -26,6 +26,10 @@ This project was completed with the intention to better understand HTML, CSS and
 
 ## Deliverable
 
+>> [Link to Deployed Site](https://ssnakeoil.github.io/refactoring-html-css/)
+
+Screenshot of deployed site:
+
 ![site screenshot](./assets/images/refactor-html-css-live-site-screenshot.png)
 
 ## Credits
