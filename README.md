@@ -2,7 +2,7 @@
 
 [>> Link to Deployed Site! <<](https://ssnakeoil.github.io/refactoring-html-css/)
 
-Screenshot of deployed site:
+## Screenshot of deployed site:
 
 ![site screenshot](./assets/images/refactor-html-css-live-site-screenshot.png)
 
